@@ -1,7 +1,11 @@
 # Automated Unit Testing and Continuous Integration
 
 Ryley Angus & Lin Li Jie
-OpenWeatherMap API (free tier, https://openweathermap.org/guide#plans
+
+
+OpenWeatherMap API (free tier, https://openweathermap.org/guide#plans)
+
+
 API Key: 55311979274630f8eba1933e5646b305
 
 # CI/CD Configuration
